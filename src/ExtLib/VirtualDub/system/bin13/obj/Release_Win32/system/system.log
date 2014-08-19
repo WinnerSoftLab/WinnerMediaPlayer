@@ -1,0 +1,12 @@
+﻿Build started 28.06.2014 0:31:36.
+     1>Project "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\system.vcxproj" on node 2 (Build target(s)).
+     1>_YASM:
+         a_memory.asm
+         cmd.exe /C "C:\Users\User\AppData\Local\Temp\tmpbec51c5cb1034d8ea2088c547804b79e.cmd"
+         "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\src\YASM.bat" -X vc -f Win32    -o "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\bin13\obj\Release_Win32\system\a_memory.obj" "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\source\a_memory.asm"
+     1>C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\YASM.targets(45,5): error MSB3721: The command ""C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\src\YASM.bat" -X vc -f Win32    -o "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\bin13\obj\Release_Win32\system\a_memory.obj" "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\source\a_memory.asm"" exited with code 1.
+     1>Done Building Project "C:\dev\svn\deusmodus\experements\cpp\mpc-next\src\ExtLib\VirtualDub\system\system.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.09
